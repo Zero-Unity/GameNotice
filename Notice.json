@@ -2,6 +2,6 @@
     "noticeVersion": 1,
     "title": "游戏更新公告",
     "content": "1. 修复箱子读档数据丢失问题\n 2. 优化建造系统碰撞检测\n 3. 调整枪械后坐力参数\n 4. 新增公告板功能",
-    "publishTime": "\n2026-07-07 15:00:00",
+    "publishTime": "2026-07-07 15:00:00",
     "forceShow": false
 }
